@@ -1,10 +1,10 @@
 [
 	"sam adams":{
-		"rating":5
+		"rating":5,
 		"type":"ale"
 	},
 	"stone blah":{
-		"rating":3
+		"rating":3,
 		"type":"ipa"
 	},
 ]
