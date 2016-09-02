@@ -1,0 +1,12 @@
+[
+	{
+		"name":"Sam Adams",
+		"rating":5,
+		"type":"ale"
+	},
+	{
+		"name":"Coors",
+		"rating":3,
+		"type":"ipa"
+	},
+]
